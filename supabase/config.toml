@@ -1,0 +1,4 @@
+project_id = "roblox-live-stream-center"
+
+[functions.roblox-lookup]
+verify_jwt = false
